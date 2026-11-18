@@ -1,11 +1,11 @@
 # Accounts and access
 
 Maintainers request access for their teams. Any Owner can grant it under these rules.
-Disputes and exceptions go to the council.
+Disputes and exceptions go to the Steering Committee.
 
 | Role                  | GitHub access                          |
 |-----------------------|----------------------------------------|
-| Council               | Organisation Owner                     |
+| Steering Committee    | Organisation Owner                     |
 | Maintainer            | Maintain permissions on their packages |
 | Member                | Access granted by an Owner as needed   |
 | External Collaborator | Access granted by an Owner as needed   |
